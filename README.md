@@ -7,3 +7,7 @@
 npm start
 ```
 3. Go to the link (a local host port) that appears in the terminal
+
+Should get this output:
+
+![TerminalOutput](terminal.png)
